@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("test GitHub Project");
+	printf("test GitHub Project\n");
 	return 0;
 }
